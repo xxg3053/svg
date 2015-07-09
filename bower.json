@@ -1,0 +1,25 @@
+{
+  "name": "svg",
+  "version": "0.1.0",
+  "authors": [
+    "kenfo <xxg3053@gmail.com>"
+  ],
+  "description": "svg",
+  "main": "index.html",
+  "keywords": [
+    "svg"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
